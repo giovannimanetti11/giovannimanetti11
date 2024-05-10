@@ -1,4 +1,4 @@
-# Ciao, I'm Giovanni! 👋
+# Ciao! I'm Giovanni! 👋
 
 I’m passionate about plants 🌱, computer 💻, coding ☕ and crypto 🤓!
 
