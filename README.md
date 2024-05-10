@@ -12,6 +12,6 @@ Negli anni ho lavorato come dipendente sia in Italia che all'estero per aziende 
 ## Progetti Recenti
 
 - **WikiHerbalist.com**  
-  WikiHerbalist è un progetto opensource nato nel 2023. È ancora in fase di sviluppo e punta a diventare una risorsa indispensabile per gli appassionati di erboristeria.  
+  WikiHerbalist è un progetto opensource nato nel 2023. È ancora in fase di sviluppo e punta a diventare una risorsa importante per gli appassionati di fitoterapia.  
   - [Tema WordPress v1.0](https://github.com/giovannimanetti11/perseowiki)
-  - [Tema Nuxt 3 in sviluppo](https://github.com/giovannimanetti11/PerseoNXT)
+  - [Tema Nuxt 3 v2.0 in sviluppo](https://github.com/giovannimanetti11/PerseoNXT)
