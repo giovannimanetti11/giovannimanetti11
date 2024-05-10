@@ -1,6 +1,6 @@
 # Ciao, sono Giovanni! 👋
 
-🌱 Sono un appassionato di piante, computer 💻, programmazione ☕ e criptovalute ![Bitcoin](https://bitcoin.org/img/icons/opengraph.png?1657179174).
+🌱 Sono un appassionato di piante, computer 💻, programmazione ☕ e criptovalute ![Bitcoin](https://imgur.com/a/KgLbkyL).
 
 🔗 [LinkedIn](https://www.linkedin.com/in/giovannimanetti/)
 📧 Scrivimi una mail: giovanni@perseodesign.com
