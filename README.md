@@ -1,18 +1,18 @@
-# Ciao, sono Giovanni! 👋
+# Ciao, I'm Giovanni! 👋
 
-🌱 Sono un appassionato di piante, computer 💻, programmazione ☕ e criptovalute!
+I’m passionate about plants 🌱, computer 💻, coding ☕ and crypto 🤓!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/giovannimanetti/)
 
-📧 Scrivimi una mail: giovanni@perseodesign.com
+📧 Email me: giovanni@perseodesign.com
 
-## Un po' di più su di me
+## A bit more about me
 
-Negli anni ho lavorato come dipendente sia in Italia che all'estero per aziende private e enti istituzionali, per poi mettermi in proprio. Attualmente vivo a Firenze, una città che continua a ispirarmi quotidianamente, e dedico parte del mio tempo a progetti che combinano le mie passioni per la tecnologia e il mondo naturale.
+Over the years, I have worked as an employee in both Italy and abroad for private companies and institutional bodies, before starting my own business. I currently live in Florence, a city that continues to inspire me daily, and I dedicate part of my time to projects that combine my passions for technology and the natural world.
 
-## Progetti Recenti
+## Recent projects
 
 - **WikiHerbalist.com**  
-  WikiHerbalist è un progetto opensource nato nel 2023. È ancora in fase di sviluppo e punta a diventare una risorsa importante per gli appassionati di fitoterapia.  
-  - [Tema WordPress v1.0](https://github.com/giovannimanetti11/perseowiki)
-  - [Tema Nuxt 3 v2.0 in sviluppo](https://github.com/giovannimanetti11/PerseoNXT)
+  WikiHerbalist is an open-source project started in 2023. It's still under development and aims to become a significant resource for enthusiasts of herbal medicine.  
+  - [WordPress theme v1.0](https://github.com/giovannimanetti11/perseowiki)
+  - [Nuxt 3 theme v2.0 in development](https://github.com/giovannimanetti11/PerseoNXT)
