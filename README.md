@@ -3,6 +3,7 @@
 🌱 Sono un appassionato di piante, computer 💻, programmazione ☕ e criptovalute!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/giovannimanetti/)
+
 📧 Scrivimi una mail: giovanni@perseodesign.com
 
 ## Un po' di più su di me
