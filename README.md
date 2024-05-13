@@ -8,7 +8,7 @@ I’m passionate about plants 🌱, computers 💻, coding ☕, and crypto 🤓!
 
 ## A bit more about me
 
-Over the years, I have worked as an employee in both Italy and abroad for private companies and institutional bodies before starting my own business. I currently live in Florence, a city that continues to inspire me daily, and I dedicate part of my time to volunteer projects that combine my passion for technology and the natural world.
+Over the years, I have worked as an employee in both Italy and abroad for private companies and institutional bodies before starting my own business. I currently live in Florence, a city that continues to inspire me daily, and I dedicate part of my time to volunteer projects that combine my passion for technology and nature.
 
 ## Current project
 
