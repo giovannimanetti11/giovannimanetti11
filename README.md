@@ -2,7 +2,7 @@
 
 I’m passionate about plants 🌱, computers 💻, coding ☕, and crypto 🤓!
 
-🔗 [linkedin](https://www.linkedin.com/in/giovannimanetti/)
+🔗 [LinkedIn](https://www.linkedin.com/in/giovannimanetti/)
 
 📧 Email me: [giovanni@perseodesign.com](mailto:giovanni@perseodesign.com)
 
