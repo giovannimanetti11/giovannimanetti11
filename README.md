@@ -1,6 +1,6 @@
 # Ciao! I'm Giovanni! 👋
 
-I’m passionate about plants 🌱, computers 💻, coding ☕, and crypto 🤓!
+I am a front-end developer, passionate about plants 🌱, computers 💻, coding ☕ and crypto 🤓!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/giovannimanetti/)
 
