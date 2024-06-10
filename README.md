@@ -10,7 +10,7 @@ I am a front-end developer, passionate about plants 🌱, computers 💻, coding
 
 Over the years, I have worked as an employee in both Italy and abroad for private companies and institutional bodies before starting my own business. I currently live in Florence, a city that continues to inspire me daily, and I dedicate part of my time to volunteer projects that combine my passion for technology and nature.
 
-## Current project
+## Currently working on
 
 - **[wikiherbalist.com](https://wikiherbalist.com)**  
   Wikiherbalist is an open-source project started in 2023. It's still under development and aims to become a significant resource for enthusiasts of herbal medicine.  
