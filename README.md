@@ -16,3 +16,11 @@ Over the years, I have worked as an employee in both Italy and abroad for privat
   Wikiherbalist is an open-source project started in 2023. It's still under development and aims to become a significant resource for enthusiasts of herbal medicine.  
   - [wordpress theme v1.0](https://github.com/giovannimanetti11/perseowiki)
   - [nuxt 3 theme v2.0 under development](https://github.com/giovannimanetti11/PerseoNXT)
+ 
+## GitHub Stats
+
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannimanetti11&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
+
+![Giovanni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giovannimanetti11&theme=radical)
