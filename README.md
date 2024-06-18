@@ -2,7 +2,7 @@
 
 I am a front-end developer, passionate about plants 🌱, computers 💻, coding ☕ and crypto 🤓!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/giovannimanetti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovannimanetti/)
 
 📧 Email me: [giovanni@perseodesign.com](mailto:giovanni@perseodesign.com)
 
@@ -18,8 +18,6 @@ Over the years, I have worked as an employee in both Italy and abroad for privat
   - [nuxt 3 theme v2.0 under development](https://github.com/giovannimanetti11/PerseoNXT)
  
 ## GitHub Stats
-
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannimanetti11&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
 
