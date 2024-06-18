@@ -22,3 +22,7 @@ Over the years, I have worked as an employee in both Italy and abroad for privat
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
 
 ![Giovanni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giovannimanetti11&theme=radical)
+
+## Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=giovannimanetti11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
