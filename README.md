@@ -17,6 +17,9 @@ Over the years, I have worked as an employee in both Italy and abroad for privat
   - [wordpress theme v1.0](https://github.com/giovannimanetti11/perseowiki)
   - [nuxt 3 theme v2.0 under development](https://github.com/giovannimanetti11/PerseoNXT)
  
+- **Indie roguelike game (currently unnamed)**  
+  Together with [Nencinif](https://github.com/nencinif) I am developing an independent 2D roguelike game using Godot 4.3 with GDScript. The game is in its early concepting and development stages. Stay tuned for more updates!
+ 
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
