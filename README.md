@@ -14,8 +14,8 @@ Over the years, I have worked as an employee in both Italy and abroad for privat
 
 - **[wikiherbalist.com](https://wikiherbalist.com)**  
   Wikiherbalist is an open-source project started in 2023. While it is currently live and operational, it is considered to be in a "initial production" phase. The project aims at becoming a significant resource for enthusiasts of herbal medicine.  
-  - [wordpress theme v1.0](https://github.com/giovannimanetti11/perseowiki)
-  - [nuxt3 theme v2.0](https://github.com/giovannimanetti11/PerseoNXT)
+  - [wordpress theme (wikiherbalist 1.0)](https://github.com/giovannimanetti11/perseowiki)
+  - [nuxt3 theme (wikiherbalist 2.0)](https://github.com/giovannimanetti11/PerseoNXT)
  
 - **Indie roguelike game (currently unnamed)**  
   Together with [Nencinif](https://github.com/nencinif) I am developing an independent 2D roguelike game using Godot 4.3 with GDScript. The game is in its early concepting and development stages. Stay tuned for more updates!
