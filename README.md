@@ -19,7 +19,13 @@ Over the years, I have worked as an employee in Italy and abroad for private com
  
 - **Indie roguelike game (currently unnamed)**  
   Together with [Nencinif](https://github.com/nencinif) I am developing an independent 2D roguelike game using Godot 4.3 with GDScript. The game is in its early concepting and development stages. Stay tuned for more updates!
- 
+
+- **[Simple Donation](https://github.com/giovannimanetti11/Simple-donation)**  
+  A customizable donation module for Nuxt 3 projects with PayPal integration. This open-source project features color theming, responsive design and FAQ customization, making it easy to integrate into Nuxt 3 websites.
+  - [GitHub Repository](https://github.com/giovannimanetti11/Simple-donation)
+  - [NPM Package](https://www.npmjs.com/package/simple-donation)
+  - [Live Demo](https://wikiherbalist.com/donazioni)
+    
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
