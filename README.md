@@ -1,6 +1,6 @@
 # Ciao! I'm Giovanni! 👋
 
-I am a web developer, passionate about plants 🌱, computers 💻, coding ☕ and crypto 🤓!
+I’m a web developer, passionate about plants 🌱, computers 💻, coding ☕ and crypto 🤓!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovannimanetti/)
 
@@ -8,20 +8,27 @@ I am a web developer, passionate about plants 🌱, computers 💻, coding ☕ a
 
 ## A bit more about me
 
-Over the years, I have worked as an employee in Italy and abroad for private companies and institutional bodies. I currently live in Florence, a city that continues to inspire me daily, and I dedicate part of my time to volunteer projects that combine my passion for technology with the one for nature.
+Over the years, I’ve worked in Italy and abroad for both private companies and institutional bodies. I currently live in Florence, a city that continues to inspire me daily. I also dedicate part of my time to volunteer projects that combine my passion for technology with my love for nature.
 
 ## Currently working on
 
 - **[wikiherbalist.com](https://wikiherbalist.com)**  
-  Wikiherbalist is an open-source project started in 2023. While it is currently live and operational, it is considered to be in a "initial production" phase. The project aims at becoming a significant resource for enthusiasts of herbal medicine.  
+  Wikiherbalist is an open-source project started in 2023. While it is currently live and operational, it is considered to be in its "initial production" phase. The project aims to become a key resource for enthusiasts of herbal medicine.  
   - [wordpress theme (wikiherbalist 1.0)](https://github.com/giovannimanetti11/perseowiki)
   - [nuxt3 theme (wikiherbalist 2.0)](https://github.com/giovannimanetti11/PerseoNXT)
  
 - **Indie roguelike game (currently unnamed)**  
-  Together with [Nencinif](https://github.com/nencinif) I am developing an independent 2D roguelike game using Godot 4.3 with GDScript. The game is in its early concepting and development stages. Stay tuned for more updates!
+  Together with [Nencinif](https://github.com/nencinif), I’m developing an independent 2D roguelike game using Godot 4.3 with GDScript. The game is in its early concepting and development stages. Stay tuned for more updates!
 
 - **[Simple Donation](https://github.com/giovannimanetti11/Simple-donation)**  
-  A customizable donation module for Nuxt 3 projects with PayPal integration. This open-source project features color theming, responsive design and FAQ customization, and it's very easy to integrate into Nuxt 3 websites.
+  A customizable donation module for Nuxt 3 projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt 3 websites.
+
+  **Ongoing development**:
+  - string translations to support multiple languages
+  - more payment options, including cryptocurrency integration
+
+  These upcoming features aim to expand the module’s flexibility and global reach.
+
   - [GitHub Repository](https://github.com/giovannimanetti11/Simple-donation)
   - [NPM Package](https://www.npmjs.com/package/simple-donation)
   - [Live Demo](https://wikiherbalist.com/donazioni)
