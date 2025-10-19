@@ -2,7 +2,7 @@
 
 I'm a Front End Developer passionate about plants 🌱, open source 🌍 and web security 🔒!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovannimanetti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovannimanetti/)  
 📧 Email me: [giovanni@perseodesign.com](mailto:giovanni@perseodesign.com)
 
 ## A bit more about me
