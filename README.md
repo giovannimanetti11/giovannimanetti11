@@ -1,40 +1,61 @@
 # Ciao! I'm Giovanni! 👋
 
-I’m a web developer, passionate about plants 🌱, computers 💻, coding ☕ and crypto 🤓!
+I'm a Front End Developer passionate about plants 🌱, open source 🌍 and web security 🔒!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovannimanetti/)
-
 📧 Email me: [giovanni@perseodesign.com](mailto:giovanni@perseodesign.com)
 
 ## A bit more about me
 
-Over the years, I’ve worked in Italy and abroad for both private companies and institutional bodies. I currently live in Florence, a city that continues to inspire me daily. I also dedicate part of my time to volunteer projects that combine my passion for technology with my love for nature.
+Over the years, I've worked in Italy and abroad for both private companies and institutional bodies. I currently live in Florence, a city that continues to inspire me daily. I also dedicate part of my time to volunteer projects that combine my passion for technology with my love for nature.
 
-## Currently working on
+## Currently working at Tinexta Cyber SpA
+
+Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, where I develop the frontend of cybersecurity applications. I mainly work with Vue.js for the frontend and I also work with Django templates and views.
+
+## Tech Stack
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### API Integration
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## During my free time working on
 
 - **[wikiherbalist.com](https://wikiherbalist.com)**  
-  Wikiherbalist is an open-source project started in 2023. While it is currently live and operational, it is considered to be in its "initial production" phase. The project aims to become a key resource for enthusiasts of herbal medicine.  
-  - [wordpress theme (wikiherbalist 1.0)](https://github.com/giovannimanetti11/perseowiki)
-  - [nuxt3 theme (wikiherbalist 2.0)](https://github.com/giovannimanetti11/PerseoNXT)
+  Wikiherbalist is an open-source project started in 2023, aimed at becoming a key resource for herbal medicine enthusiasts. Currently working on a more secure and updated version that will be released soon!
+  - [WordPress theme (wikiherbalist 1.0)](https://github.com/giovannimanetti11/perseowiki)
+  - [Nuxt 3 theme (wikiherbalist 2.0)](https://github.com/giovannimanetti11/PerseoNXT)
  
-- **Indie roguelike game (currently unnamed)**  
-  Together with [Nencinif](https://github.com/nencinif), I’m developing an independent 2D roguelike game using Godot 4.3 with GDScript. The game is in its early concepting and development stages. Stay tuned for more updates!
-
 - **[Simple Donation](https://github.com/giovannimanetti11/Simple-donation)**  
   A customizable donation module for Nuxt 3 projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt 3 websites.
-
-  **Ongoing development**:
-  - string translations to support multiple languages
-  - more payment options, including cryptocurrency integration
-
-  These upcoming features aim to expand the module’s flexibility and global reach.
-
+  
+  **Planned features**:
+  - String translations to support multiple languages
+  - More payment options, including cryptocurrency integration
+  
   - [GitHub Repository](https://github.com/giovannimanetti11/Simple-donation)
   - [NPM Package](https://www.npmjs.com/package/simple-donation)
   - [Live Demo](https://wikiherbalist.com/donazioni)
-    
+
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
-
 ![Giovanni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giovannimanetti11&theme=radical)
+
+---
+
+💡 Open to collaborations on open-source projects!
