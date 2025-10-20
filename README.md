@@ -41,7 +41,7 @@ Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, w
   - [Nuxt 3 theme (wikiherbalist 2.0)](https://github.com/giovannimanetti11/PerseoNXT)
  
 - **[Simple Donation](https://github.com/giovannimanetti11/Simple-donation)**  
-  A customizable donation module for Nuxt 3 projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt 3 websites.
+  A customizable donation module for Nuxt projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt websites.
   
   **Planned features**:
   - String translations to support multiple languages
