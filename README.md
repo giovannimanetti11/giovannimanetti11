@@ -46,7 +46,6 @@ Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, w
   **Planned features**:
   - String translations to support multiple languages
   - More payment options, including cryptocurrency integration
-  
   - [GitHub Repository](https://github.com/giovannimanetti11/Simple-donation)
   - [NPM Package](https://www.npmjs.com/package/simple-donation)
   - [Live Demo](https://wikiherbalist.com/donazioni)
