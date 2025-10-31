@@ -41,8 +41,8 @@ Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, w
   - [Nuxt 4 theme (wikiherbalist NXT)](https://github.com/giovannimanetti11/PerseoNXT)
  
 - **[Simple Donation](https://github.com/giovannimanetti11/Simple-donation)**  
-  A customizable donation module for Nuxt projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt websites.
-  Currently working on a full Nuxt 4 integration and new features
+  A customizable donation module for Nuxt projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt websites.  
+  Currently working on a full Nuxt 4 integration and new features.
   
   **Planned features**:
   - String translations to support multiple languages
@@ -54,7 +54,7 @@ Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, w
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
-![Giovanni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giovannimanetti11&theme=radical)
+
 
 ---
 
