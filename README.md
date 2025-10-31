@@ -36,12 +36,13 @@ Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, w
 ## During my free time working on
 
 - **[wikiherbalist.com](https://wikiherbalist.com)**  
-  Wikiherbalist is an open-source project started in 2023, aimed at becoming a key resource for herbal medicine enthusiasts. Currently working on a more secure and updated version that will be released soon!
-  - [WordPress theme (wikiherbalist 1.0)](https://github.com/giovannimanetti11/perseowiki)
-  - [Nuxt 3 theme (wikiherbalist 2.0)](https://github.com/giovannimanetti11/PerseoNXT)
+  Wikiherbalist is an open-source project started in 2023, aimed at becoming a key resource for herbal medicine enthusiasts.
+  - [WordPress theme (wikiherbalist legacy)](https://github.com/giovannimanetti11/perseowiki)
+  - [Nuxt 4 theme (wikiherbalist NXT)](https://github.com/giovannimanetti11/PerseoNXT)
  
 - **[Simple Donation](https://github.com/giovannimanetti11/Simple-donation)**  
   A customizable donation module for Nuxt projects with PayPal integration. This open-source project features color theming, responsive design, FAQ customization, and it's very easy to integrate into Nuxt websites.
+  Currently working on a full Nuxt 4 integration and new features
   
   **Planned features**:
   - String translations to support multiple languages
