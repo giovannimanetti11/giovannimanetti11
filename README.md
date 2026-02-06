@@ -51,10 +51,6 @@ Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, w
   - [NPM Package](https://www.npmjs.com/package/simple-donation)
   - [Live Demo](https://wikiherbalist.com/donazioni)
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimanetti11&layout=compact&theme=radical)
-
 
 ---
 
