@@ -1,46 +1,132 @@
-# Ciao! I'm Giovanni! 👋
+# Hi, I'm Giovanni! 👋
 
-I'm a Front End Developer (Vue.js/Nuxt.js, Alpine.js, TypeScript) passionate about plants 🌱, open source 🌍 and web security 🔒!
+### Senior Frontend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovannimanetti/)  
-📧 Email me: [giovanni@perseodesign.com](mailto:giovanni@perseodesign.com)
+I mostly work with **Vue.js, Nuxt, TypeScript and JavaScript**.
 
-## A bit more about me
+I like building things for the web, especially when frontend development meets performance, SEO or security.
 
-Over the years, I've worked in Italy and abroad for both private companies and institutional bodies. I currently live in Florence, a city that continues to inspire me daily. I also dedicate part of my time to volunteer projects that combine my passion for technology with my love for nature.
+Plants 🌱, open source 🌍 and web security 🔒 are some of the things I spend way too much time on.
 
-## Currently working at Tinexta Cyber SpA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannimanetti/)
+[![Email](https://img.shields.io/badge/Email-giovanni%40perseodesign.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni@perseodesign.com)
 
-Since December 2024, I work as a **Front End Developer** at Tinexta Cyber SpA, where I develop the frontend of cybersecurity applications. I mainly work with Vue.js for the frontend and I also work with Django templates and views.
+## About me
 
-## During my free time working on                                                                                                                                                                                                                      
-                                                                                                                                                                           
-**[PerSeo Insights](https://insights.perseodesign.com)**
-                                                                                                                                                                                    
-A Python/Flask SaaS SEO analysis platform. It offers single-URL scans, sitemap crawling, full site crawling, PDF/Excel reports, a REST API, and a multi-tier subscription system (Free, Pro, Agency). Built entirely from scratch as a side project, it is the tool I use daily to analyse and monitor websites for clients and personal projects.
+I've been working on websites and web applications for more than 10 years, in Italy and abroad, for private companies and institutional organisations.
 
-## Tech Stack
+Frontend development is my main field, but over the years I've also worked with backend integrations, APIs, CMSs, Linux servers, deployment pipelines, technical SEO and web security.
 
+## Currently at Tinexta Cyber
+
+Since December 2024 I've been working as a **Frontend Developer at Tinexta Cyber SpA**, developing interfaces for cybersecurity and vulnerability management applications.
+
+My day-to-day work mainly involves **Vue.js**, JavaScript/TypeScript and Django-based applications.
+
+The repositories related to my work at Tinexta Cyber are private.
+
+## Personal & side projects
+
+These are some of the projects I work on outside my day-to-day job.
+
+### [PerSeo Insights](https://insights.perseodesign.com)
+
+A Python/Flask SaaS for SEO and technical website analysis.
+
+It includes:
+
+- single-URL analysis
+- sitemap scanning
+- full-site crawling
+- technical SEO checks
+- performance and accessibility analysis
+- web security checks
+- PDF and Excel reports
+- REST APIs
+- URL monitoring
+- scheduled reports
+- multi-tier subscriptions
+
+I built it from scratch and still use it to analyse and monitor websites.
+
+The source repository is private, but the application is online:
+
+👉 [insights.perseodesign.com](https://insights.perseodesign.com)
+
+### [PerseoNXT](https://github.com/giovannimanetti11/PerseoNXT)
+
+The frontend behind [WikiHerbalist](https://wikiherbalist.com).
+
+It's built with **Vue 3, Nuxt 4 and TypeScript**, with WordPress used as a headless CMS.
+
+The project includes GraphQL content fetching, SSR, multilingual content, Algolia search, structured data, technical SEO, HTML sanitization, unit and integration tests and deployment through GitHub Actions.
+
+👉 [GitHub repository](https://github.com/giovannimanetti11/PerseoNXT)  
+👉 [wikiherbalist.com](https://wikiherbalist.com)
+
+### [Italian Web Security Study](https://github.com/giovannimanetti11/italian-web-security-study)
+
+A research project on the security configuration of the Italian web.
+
+I built a Python pipeline that collected and analysed publicly observable security data from **10,022 .it domains**.
+
+The study covers:
+
+- HTTP security headers
+- Content Security Policy
+- cookies
+- TLS
+- DNS and email authentication
+- CORS
+- technology fingerprinting
+- statistical analysis
+
+The repository contains the crawler, analyzers, methodology, statistical code and public dataset used for the research.
+
+👉 [GitHub repository](https://github.com/giovannimanetti11/italian-web-security-study)  
+👉 [Paper on Zenodo](https://doi.org/10.5281/zenodo.21322437)
+
+## Tech stack
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### API Integration
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+I also work with React, Alpine.js, Bootstrap, WordPress and Strapi.
 
+### Backend & APIs
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 
-💡 Open to collaborations on open-source projects!
+### Tools & infrastructure
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+
+I also work with **Core Web Vitals, technical SEO, accessibility, CI/CD and web security**.
+
+## Research
+
+- [Measuring the Security Configuration of the Italian Web: A Large-Scale Passive Measurement Study](https://doi.org/10.5281/zenodo.21322437), 2026
+- [Google Italy Ranking Factors 2026: A Correlational Analysis of 6,824 SERP Pages Across 57 Technical and On-Page Signals](https://perseodesign.com/google-ranking-factors-italy-2026.html), 2026
+
+## Contact
+
+Want to see more of my work?
+
+**Contact me for a complete portfolio and selected commercial projects.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanni_Manetti-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannimanetti/)
+[![Email](https://img.shields.io/badge/Email-giovanni%40perseodesign.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni@perseodesign.com)
+
+💡 Always happy to hear about interesting open-source projects.
